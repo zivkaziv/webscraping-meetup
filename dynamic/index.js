@@ -1,5 +1,4 @@
 const puppeteer = require('puppeteer');
-const cheerio = require("cheerio");
 
 (async () => {
 	// Open the bowser
